@@ -1,8 +1,19 @@
-# React + Vite
+# CreativeHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, interactive React component that allows users to add and manage tags dynamically. Styled with Tailwind CSS and enhanced with Framer Motion animations, this project offers a sleek user experience for managing tags.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add up to 8 tags with visual feedback.
+- Remove tags with smooth animations.
+- Fully responsive design for all screen sizes.
+- Styled with Tailwind CSS for a modern UI.
+- Built-in Framer Motion animations for adding/removing tags.
+- Button and input dynamically disable when the tag limit is reached.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Framer Motion
+- React Icons

@@ -17,3 +17,4 @@ A responsive, interactive React component that allows users to add and manage ta
 - Tailwind CSS
 - Framer Motion
 - React Icons
+Check out the live demo [here](https://creativehub-three.vercel.app/)
